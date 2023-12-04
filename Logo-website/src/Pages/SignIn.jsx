@@ -57,7 +57,7 @@ function SignIn() {
     <div class="text-gray-300 container mx-auto p-8 
     h-screen overflow-hidden flex flex-col items-center 
     justify-center gap-5 md:rounded-lg md:p-10 lg:p-12">
-        <p className='text-white text-xl p-3'>Sign up</p>
+        <p className='text-white text-xl p-3'>Sign In</p>
         <p className='text-red-700'>{validationError}</p>
 
         <input 
